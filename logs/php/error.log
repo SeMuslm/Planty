@@ -1,0 +1,40 @@
+[29-Oct-2023 12:52:34 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\tm-beans\lib\api\compiler\vendors\lessc.php on line 719
+[29-Oct-2023 12:53:00 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\tm-beans\lib\api\compiler\vendors\lessc.php on line 719
+[29-Oct-2023 13:22:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DNS_CAA" in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php:560
+Stack trace:
+#0 C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-letsencrypt-handler.php(203): rsssl_caa_record_prevents_le()
+#1 C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(240): rsssl_letsencrypt_handler->check_domain()
+#2 C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(204): rsssl_le_restapi->get_installation_progress(Array, 'check_domain', Array)
+#3 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(310): rsssl_le_restapi->handle_lets_encrypt_request(Array, 'check_domain', Array)
+#4 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\settings\settings.php(488): apply_filters('rsssl_run_test', Array, 'check_domain', Array)
+#6 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\rest-api\class-wp-rest-server.php(1194): rsssl_run_test(Object(WP_REST_Request))
+#7 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\rest-api\class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/reallysimpless...', Array, NULL)
+#8 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\rest-api\class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#9 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\rest-api.php(418): WP_REST_Server->serve_request('/reallysimpless...')
+#10 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(310): rest_api_loaded(Object(WP))
+#11 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#12 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#13 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp.php(398): do_action_ref_array('parse_request', Array)
+#14 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp.php(779): WP->parse_request('')
+#15 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\functions.php(1335): WP->main('')
+#16 C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php(16): wp()
+#17 C:\Users\Semih\Local Sites\planty\app\public\index.php(17): require('C:\\Users\\Semih\\...')
+#18 {main}
+  thrown in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php on line 560
+[29-Oct-2023 13:22:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "DNS_CAA" in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php:560
+Stack trace:
+#0 C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-letsencrypt-handler.php(203): rsssl_caa_record_prevents_le()
+#1 C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(240): rsssl_letsencrypt_handler->check_domain()
+#2 C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\class-le-restapi.php(204): rsssl_le_restapi->get_installation_progress(Array, 'check_domain', Array)
+#3 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(310): rsssl_le_restapi->handle_lets_encrypt_request(Array, 'check_domain', Array)
+#4 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#5 C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\settings\settings.php(488): apply_filters('rsssl_run_test', Array, 'check_domain', Array)
+#6 C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\settings\settings.php(243): rsssl_run_test(Object(WP_REST_Request), Array)
+#7 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(310): rsssl_rest_api_fallback('')
+#8 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#9 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\Semih\Local Sites\planty\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_rsssl_r...')
+#11 {main}
+  thrown in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php on line 560
+[29-Oct-2023 13:24:35 UTC] PHP Warning:  file_get_contents(C:\Users\Semih\Local Sites\planty\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\Semih\Local Sites\planty\app\public\wp-includes\functions.php on line 6691
