@@ -1,1 +1,5 @@
 2023/10/29 14:22:12 [error] 13700#8120: *873 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "planty.local"
+2023/11/08 13:29:42 [error] 12644#3176: *589 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "planty.local"
+2023/11/14 13:06:04 [error] 3408#19460: *274 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "planty.local"
+2023/11/28 12:59:25 [error] 15172#7912: *65 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "planty.local"
+2023/11/29 23:57:39 [error] 20140#20064: *66 access forbidden by rule, client: 127.0.0.1, server: , request: "GET /wp-content/uploads/code-execution.php HTTP/1.0", host: "planty.local"

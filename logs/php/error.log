@@ -38,3 +38,304 @@ Stack trace:
 #11 {main}
   thrown in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\really-simple-ssl\lets-encrypt\functions.php on line 560
 [29-Oct-2023 13:24:35 UTC] PHP Warning:  file_get_contents(C:\Users\Semih\Local Sites\planty\app\public/wp-content/plugins/ocean-extra/ocean-extra.php): Failed to open stream: No such file or directory in C:\Users\Semih\Local Sites\planty\app\public\wp-includes\functions.php on line 6691
+[08-Nov-2023 12:27:34 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur ou l’administratrice de votre serveur.) in C:\Users\Semih\Local Sites\planty\app\public\wp-admin\includes\update.php on line 148
+[28-Nov-2023 14:39:35 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\tm-beans\lib\api\compiler\vendors\lessc.php on line 719
+[28-Nov-2023 14:41:51 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\tm-beans\lib\api\compiler\vendors\lessc.php on line 719
+[28-Nov-2023 14:41:56 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\tm-beans\lib\api\compiler\vendors\lessc.php on line 719
+[28-Nov-2023 14:51:58 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\tm-beans\lib\api\compiler\vendors\lessc.php on line 719
+[28-Nov-2023 14:52:19 UTC] PHP Warning:  Failed loading Zend extension 'php_opcache.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_opcache.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_opcache.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:19 UTC] PHP Warning:  Failed loading Zend extension 'php_xdebug.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_xdebug.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_xdebug.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_curl.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_curl.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gettext.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_gettext.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_gettext.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_openssl.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_openssl.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_exif.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_exif.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_exif.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gd.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_gd.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_gd.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  Failed loading Zend extension 'php_opcache.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_opcache.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_opcache.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  Failed loading Zend extension 'php_xdebug.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_xdebug.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_xdebug.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ftp.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_ftp.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_ftp.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_curl.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_curl.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_curl.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gettext.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_gettext.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_gettext.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_openssl.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_openssl.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_openssl.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_exif.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_exif.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_exif.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_gd.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_gd.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_gd.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ftp.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_ftp.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_ftp.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ffi.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_ffi.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_ffi.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_ffi.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_ffi.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_ffi.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imap.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_imap.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_imap.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_imap.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_imap.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_imap.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_bz2.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_bz2.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_bz2.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_bz2.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_bz2.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_bz2.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mbstring.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_mbstring.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_mbstring.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mbstring.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_mbstring.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_mbstring.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sodium.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_sodium.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_sodium.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sodium.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_sodium.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_sodium.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_tidy.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_tidy.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_tidy.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_tidy.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_tidy.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_tidy.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xsl.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_xsl.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_xsl.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_xsl.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_xsl.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_xsl.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_soap.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_soap.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_soap.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_soap.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_soap.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_soap.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_mysqli.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_mysqli.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysqli.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_mysqli.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_mysqli.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_mysql.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_pdo_mysql.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_pdo_mysql.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_mysql.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_pdo_mysql.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_pdo_mysql.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_fileinfo.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_fileinfo.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_fileinfo.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_fileinfo.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_fileinfo.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_fileinfo.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_pdo_sqlite.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_pdo_sqlite.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_pdo_sqlite.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_pdo_sqlite.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_pdo_sqlite.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sqlite3.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_sqlite3.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_sqlite3.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_sqlite3.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_sqlite3.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_sqlite3.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_zip.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_zip.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_zip.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_zip.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_zip.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_zip.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_intl.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_intl.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_intl.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 14:52:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_intl.dll' (tried: C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_intl.dll (Le module spécifié est introuvable.), C:/Users/Semih/AppData/Roaming/Local/lightning-services/php-8.2.10+1/bin/win64/ext\php_php_intl.dll.dll (Le module spécifié est introuvable.)) in Unknown on line 0
+[28-Nov-2023 15:09:43 UTC] PHP Warning:  filemtime(): stat failed for C:\Users\Semih\Local Sites\planty\app\public/wp-content/themes/blankslate-child/css/theme.css in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 6
+[28-Nov-2023 15:09:43 UTC] PHP Stack trace:
+[28-Nov-2023 15:09:43 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[28-Nov-2023 15:09:43 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[28-Nov-2023 15:09:43 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[28-Nov-2023 15:09:43 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[28-Nov-2023 15:09:43 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\404.php:1
+[28-Nov-2023 15:09:43 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[28-Nov-2023 15:09:43 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[28-Nov-2023 15:09:43 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[28-Nov-2023 15:09:43 UTC] PHP   9. wp_head() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\header.php:6
+[28-Nov-2023 15:09:43 UTC] PHP  10. do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:3052
+[28-Nov-2023 15:09:43 UTC] PHP  11. WP_Hook->do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:517
+[28-Nov-2023 15:09:43 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:348
+[28-Nov-2023 15:09:43 UTC] PHP  13. wp_enqueue_scripts() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:324
+[28-Nov-2023 15:09:43 UTC] PHP  14. do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\script-loader.php:2262
+[28-Nov-2023 15:09:43 UTC] PHP  15. WP_Hook->do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:517
+[28-Nov-2023 15:09:43 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:348
+[28-Nov-2023 15:09:43 UTC] PHP  17. theme_enqueue_styles() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:324
+[28-Nov-2023 15:09:43 UTC] PHP  18. filemtime() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:6
+[28-Nov-2023 15:09:47 UTC] PHP Warning:  filemtime(): stat failed for C:\Users\Semih\Local Sites\planty\app\public/wp-content/themes/blankslate-child/css/theme.css in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 6
+[28-Nov-2023 15:09:47 UTC] PHP Stack trace:
+[28-Nov-2023 15:09:47 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[28-Nov-2023 15:09:47 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[28-Nov-2023 15:09:47 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[28-Nov-2023 15:09:47 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[28-Nov-2023 15:09:47 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[28-Nov-2023 15:09:47 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[28-Nov-2023 15:09:47 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[28-Nov-2023 15:09:47 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[28-Nov-2023 15:09:47 UTC] PHP   9. wp_head() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\header.php:6
+[28-Nov-2023 15:09:47 UTC] PHP  10. do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:3052
+[28-Nov-2023 15:09:47 UTC] PHP  11. WP_Hook->do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:517
+[28-Nov-2023 15:09:47 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:348
+[28-Nov-2023 15:09:47 UTC] PHP  13. wp_enqueue_scripts() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:324
+[28-Nov-2023 15:09:47 UTC] PHP  14. do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\script-loader.php:2262
+[28-Nov-2023 15:09:47 UTC] PHP  15. WP_Hook->do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:517
+[28-Nov-2023 15:09:47 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:348
+[28-Nov-2023 15:09:47 UTC] PHP  17. theme_enqueue_styles() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:324
+[28-Nov-2023 15:09:47 UTC] PHP  18. filemtime() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:6
+[28-Nov-2023 15:09:48 UTC] PHP Warning:  filemtime(): stat failed for C:\Users\Semih\Local Sites\planty\app\public/wp-content/themes/blankslate-child/css/theme.css in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 6
+[28-Nov-2023 15:09:48 UTC] PHP Stack trace:
+[28-Nov-2023 15:09:48 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[28-Nov-2023 15:09:48 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[28-Nov-2023 15:09:48 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[28-Nov-2023 15:09:48 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[28-Nov-2023 15:09:48 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\404.php:1
+[28-Nov-2023 15:09:48 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[28-Nov-2023 15:09:48 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[28-Nov-2023 15:09:48 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[28-Nov-2023 15:09:48 UTC] PHP   9. wp_head() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\header.php:6
+[28-Nov-2023 15:09:48 UTC] PHP  10. do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:3052
+[28-Nov-2023 15:09:48 UTC] PHP  11. WP_Hook->do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:517
+[28-Nov-2023 15:09:48 UTC] PHP  12. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:348
+[28-Nov-2023 15:09:48 UTC] PHP  13. wp_enqueue_scripts() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:324
+[28-Nov-2023 15:09:48 UTC] PHP  14. do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\script-loader.php:2262
+[28-Nov-2023 15:09:48 UTC] PHP  15. WP_Hook->do_action() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:517
+[28-Nov-2023 15:09:48 UTC] PHP  16. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:348
+[28-Nov-2023 15:09:48 UTC] PHP  17. theme_enqueue_styles() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:324
+[28-Nov-2023 15:09:48 UTC] PHP  18. filemtime() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:6
+[30-Nov-2023 10:37:31 UTC] PHP Warning:  func_get_arg() expects exactly 1 parameter, 0 given in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 12
+[30-Nov-2023 10:37:31 UTC] PHP Stack trace:
+[30-Nov-2023 10:37:31 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[30-Nov-2023 10:37:31 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[30-Nov-2023 10:37:31 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[30-Nov-2023 10:37:31 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[30-Nov-2023 10:37:31 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[30-Nov-2023 10:37:31 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[30-Nov-2023 10:37:31 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[30-Nov-2023 10:37:31 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[30-Nov-2023 10:37:31 UTC] PHP   9. wp_nav_menu() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\header.php:19
+[30-Nov-2023 10:37:31 UTC] PHP  10. walk_nav_menu_tree() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:236
+[30-Nov-2023 10:37:31 UTC] PHP  11. Walker_Nav_Menu->walk() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:616
+[30-Nov-2023 10:37:31 UTC] PHP  12. Walker_Nav_Menu->display_element() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:247
+[30-Nov-2023 10:37:31 UTC] PHP  13. Walker_Nav_Menu->start_el() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:147
+[30-Nov-2023 10:37:31 UTC] PHP  14. apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-walker-nav-menu.php:176
+[30-Nov-2023 10:37:31 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
+[30-Nov-2023 10:37:31 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
+[30-Nov-2023 10:37:31 UTC] PHP  17. func_get_arg() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
+[30-Nov-2023 10:50:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 12
+[30-Nov-2023 10:50:34 UTC] PHP Stack trace:
+[30-Nov-2023 10:50:34 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[30-Nov-2023 10:50:34 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[30-Nov-2023 10:50:34 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[30-Nov-2023 10:50:34 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[30-Nov-2023 10:50:34 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[30-Nov-2023 10:50:34 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[30-Nov-2023 10:50:34 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[30-Nov-2023 10:50:34 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[30-Nov-2023 10:50:34 UTC] PHP   9. wp_nav_menu() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\header.php:19
+[30-Nov-2023 10:50:34 UTC] PHP  10. walk_nav_menu_tree() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:236
+[30-Nov-2023 10:50:34 UTC] PHP  11. Walker_Nav_Menu->walk() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:616
+[30-Nov-2023 10:50:34 UTC] PHP  12. Walker_Nav_Menu->display_element() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:247
+[30-Nov-2023 10:50:34 UTC] PHP  13. Walker_Nav_Menu->start_el() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:147
+[30-Nov-2023 10:50:34 UTC] PHP  14. apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-walker-nav-menu.php:176
+[30-Nov-2023 10:50:34 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
+[30-Nov-2023 10:50:34 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
+[30-Nov-2023 10:50:34 UTC] PHP  17. in_array() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
+[30-Nov-2023 10:50:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 12
+[30-Nov-2023 10:50:34 UTC] PHP Stack trace:
+[30-Nov-2023 10:50:34 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[30-Nov-2023 10:50:34 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[30-Nov-2023 10:50:34 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[30-Nov-2023 10:50:34 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[30-Nov-2023 10:50:34 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[30-Nov-2023 10:50:34 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[30-Nov-2023 10:50:34 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[30-Nov-2023 10:50:34 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[30-Nov-2023 10:50:34 UTC] PHP   9. wp_nav_menu() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\header.php:19
+[30-Nov-2023 10:50:34 UTC] PHP  10. walk_nav_menu_tree() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:236
+[30-Nov-2023 10:50:34 UTC] PHP  11. Walker_Nav_Menu->walk() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:616
+[30-Nov-2023 10:50:34 UTC] PHP  12. Walker_Nav_Menu->display_element() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:247
+[30-Nov-2023 10:50:34 UTC] PHP  13. Walker_Nav_Menu->start_el() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:147
+[30-Nov-2023 10:50:34 UTC] PHP  14. apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-walker-nav-menu.php:176
+[30-Nov-2023 10:50:34 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
+[30-Nov-2023 10:50:34 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
+[30-Nov-2023 10:50:34 UTC] PHP  17. in_array() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
+[30-Nov-2023 10:50:34 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 12
+[30-Nov-2023 10:50:34 UTC] PHP Stack trace:
+[30-Nov-2023 10:50:34 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[30-Nov-2023 10:50:34 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[30-Nov-2023 10:50:34 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[30-Nov-2023 10:50:34 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[30-Nov-2023 10:50:34 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[30-Nov-2023 10:50:34 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[30-Nov-2023 10:50:34 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[30-Nov-2023 10:50:34 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[30-Nov-2023 10:50:34 UTC] PHP   9. wp_nav_menu() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\header.php:19
+[30-Nov-2023 10:50:34 UTC] PHP  10. walk_nav_menu_tree() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:236
+[30-Nov-2023 10:50:34 UTC] PHP  11. Walker_Nav_Menu->walk() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:616
+[30-Nov-2023 10:50:34 UTC] PHP  12. Walker_Nav_Menu->display_element() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:247
+[30-Nov-2023 10:50:34 UTC] PHP  13. Walker_Nav_Menu->start_el() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:147
+[30-Nov-2023 10:50:34 UTC] PHP  14. apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-walker-nav-menu.php:176
+[30-Nov-2023 10:50:34 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
+[30-Nov-2023 10:50:34 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
+[30-Nov-2023 10:50:34 UTC] PHP  17. in_array() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
+[30-Nov-2023 10:51:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 12
+[30-Nov-2023 10:51:14 UTC] PHP Stack trace:
+[30-Nov-2023 10:51:14 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[30-Nov-2023 10:51:14 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[30-Nov-2023 10:51:14 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[30-Nov-2023 10:51:14 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[30-Nov-2023 10:51:14 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[30-Nov-2023 10:51:14 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[30-Nov-2023 10:51:14 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[30-Nov-2023 10:51:14 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[30-Nov-2023 10:51:14 UTC] PHP   9. wp_nav_menu() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\header.php:19
+[30-Nov-2023 10:51:14 UTC] PHP  10. walk_nav_menu_tree() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:236
+[30-Nov-2023 10:51:14 UTC] PHP  11. Walker_Nav_Menu->walk() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:616
+[30-Nov-2023 10:51:14 UTC] PHP  12. Walker_Nav_Menu->display_element() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:247
+[30-Nov-2023 10:51:14 UTC] PHP  13. Walker_Nav_Menu->start_el() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:147
+[30-Nov-2023 10:51:14 UTC] PHP  14. apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-walker-nav-menu.php:176
+[30-Nov-2023 10:51:14 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
+[30-Nov-2023 10:51:14 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
+[30-Nov-2023 10:51:14 UTC] PHP  17. in_array() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
+[30-Nov-2023 10:51:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 12
+[30-Nov-2023 10:51:14 UTC] PHP Stack trace:
+[30-Nov-2023 10:51:14 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[30-Nov-2023 10:51:14 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[30-Nov-2023 10:51:14 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[30-Nov-2023 10:51:14 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[30-Nov-2023 10:51:14 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[30-Nov-2023 10:51:14 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[30-Nov-2023 10:51:14 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[30-Nov-2023 10:51:14 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[30-Nov-2023 10:51:14 UTC] PHP   9. wp_nav_menu() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\header.php:19
+[30-Nov-2023 10:51:14 UTC] PHP  10. walk_nav_menu_tree() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:236
+[30-Nov-2023 10:51:14 UTC] PHP  11. Walker_Nav_Menu->walk() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:616
+[30-Nov-2023 10:51:14 UTC] PHP  12. Walker_Nav_Menu->display_element() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:247
+[30-Nov-2023 10:51:14 UTC] PHP  13. Walker_Nav_Menu->start_el() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:147
+[30-Nov-2023 10:51:14 UTC] PHP  14. apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-walker-nav-menu.php:176
+[30-Nov-2023 10:51:14 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
+[30-Nov-2023 10:51:14 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
+[30-Nov-2023 10:51:14 UTC] PHP  17. in_array() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
+[30-Nov-2023 10:51:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 12
+[30-Nov-2023 10:51:14 UTC] PHP Stack trace:
+[30-Nov-2023 10:51:14 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[30-Nov-2023 10:51:14 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[30-Nov-2023 10:51:14 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[30-Nov-2023 10:51:14 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[30-Nov-2023 10:51:14 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[30-Nov-2023 10:51:14 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[30-Nov-2023 10:51:14 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[30-Nov-2023 10:51:14 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[30-Nov-2023 10:51:14 UTC] PHP   9. wp_nav_menu() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\header.php:19
+[30-Nov-2023 10:51:14 UTC] PHP  10. walk_nav_menu_tree() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:236
+[30-Nov-2023 10:51:14 UTC] PHP  11. Walker_Nav_Menu->walk() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:616
+[30-Nov-2023 10:51:14 UTC] PHP  12. Walker_Nav_Menu->display_element() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:247
+[30-Nov-2023 10:51:14 UTC] PHP  13. Walker_Nav_Menu->start_el() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:147
+[30-Nov-2023 10:51:14 UTC] PHP  14. apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-walker-nav-menu.php:176
+[30-Nov-2023 10:51:14 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
+[30-Nov-2023 10:51:14 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
+[30-Nov-2023 10:51:14 UTC] PHP  17. in_array() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
+[30-Nov-2023 10:51:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 12
+[30-Nov-2023 10:51:18 UTC] PHP Stack trace:
+[30-Nov-2023 10:51:18 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[30-Nov-2023 10:51:18 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[30-Nov-2023 10:51:18 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[30-Nov-2023 10:51:18 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[30-Nov-2023 10:51:18 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[30-Nov-2023 10:51:18 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[30-Nov-2023 10:51:18 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[30-Nov-2023 10:51:18 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[30-Nov-2023 10:51:18 UTC] PHP   9. wp_nav_menu() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\header.php:19
+[30-Nov-2023 10:51:18 UTC] PHP  10. walk_nav_menu_tree() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:236
+[30-Nov-2023 10:51:18 UTC] PHP  11. Walker_Nav_Menu->walk() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:616
+[30-Nov-2023 10:51:18 UTC] PHP  12. Walker_Nav_Menu->display_element() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:247
+[30-Nov-2023 10:51:18 UTC] PHP  13. Walker_Nav_Menu->start_el() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:147
+[30-Nov-2023 10:51:18 UTC] PHP  14. apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-walker-nav-menu.php:176
+[30-Nov-2023 10:51:18 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
+[30-Nov-2023 10:51:18 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
+[30-Nov-2023 10:51:18 UTC] PHP  17. in_array() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
+[30-Nov-2023 10:51:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 12
+[30-Nov-2023 10:51:18 UTC] PHP Stack trace:
+[30-Nov-2023 10:51:18 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[30-Nov-2023 10:51:18 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[30-Nov-2023 10:51:18 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[30-Nov-2023 10:51:18 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[30-Nov-2023 10:51:18 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[30-Nov-2023 10:51:18 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[30-Nov-2023 10:51:18 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[30-Nov-2023 10:51:18 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[30-Nov-2023 10:51:18 UTC] PHP   9. wp_nav_menu() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\header.php:19
+[30-Nov-2023 10:51:18 UTC] PHP  10. walk_nav_menu_tree() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:236
+[30-Nov-2023 10:51:18 UTC] PHP  11. Walker_Nav_Menu->walk() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:616
+[30-Nov-2023 10:51:18 UTC] PHP  12. Walker_Nav_Menu->display_element() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:247
+[30-Nov-2023 10:51:18 UTC] PHP  13. Walker_Nav_Menu->start_el() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:147
+[30-Nov-2023 10:51:18 UTC] PHP  14. apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-walker-nav-menu.php:176
+[30-Nov-2023 10:51:18 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
+[30-Nov-2023 10:51:18 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
+[30-Nov-2023 10:51:18 UTC] PHP  17. in_array() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
+[30-Nov-2023 10:51:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php on line 12
+[30-Nov-2023 10:51:18 UTC] PHP Stack trace:
+[30-Nov-2023 10:51:18 UTC] PHP   1. {main}() C:\Users\Semih\Local Sites\planty\app\public\index.php:0
+[30-Nov-2023 10:51:18 UTC] PHP   2. require() C:\Users\Semih\Local Sites\planty\app\public\index.php:17
+[30-Nov-2023 10:51:18 UTC] PHP   3. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php:19
+[30-Nov-2023 10:51:18 UTC] PHP   4. include() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php:106
+[30-Nov-2023 10:51:18 UTC] PHP   5. get_header() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate\page.php:1
+[30-Nov-2023 10:51:18 UTC] PHP   6. locate_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php:48
+[30-Nov-2023 10:51:18 UTC] PHP   7. load_template() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:725
+[30-Nov-2023 10:51:18 UTC] PHP   8. require_once() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php:790
+[30-Nov-2023 10:51:18 UTC] PHP   9. wp_nav_menu() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\header.php:19
+[30-Nov-2023 10:51:18 UTC] PHP  10. walk_nav_menu_tree() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:236
+[30-Nov-2023 10:51:18 UTC] PHP  11. Walker_Nav_Menu->walk() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\nav-menu-template.php:616
+[30-Nov-2023 10:51:18 UTC] PHP  12. Walker_Nav_Menu->display_element() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:247
+[30-Nov-2023 10:51:18 UTC] PHP  13. Walker_Nav_Menu->start_el() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-walker.php:147
+[30-Nov-2023 10:51:18 UTC] PHP  14. apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-walker-nav-menu.php:176
+[30-Nov-2023 10:51:18 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
+[30-Nov-2023 10:51:18 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
+[30-Nov-2023 10:51:18 UTC] PHP  17. in_array() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
