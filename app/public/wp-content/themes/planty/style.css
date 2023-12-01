@@ -1,0 +1,64 @@
+/*
+Theme Name: Planty
+Theme URI: https://oceanwp.org/
+Description: OceanWP WordPress theme. Sample child theme.
+Author: OceanWP
+Author URI: https://oceanwp.org/
+Template: oceanwp
+Version: 1.0
+*/
+
+/* Parent stylesheet should be loaded from functions.php not using @import */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px;
+    padding: 0px;
+}
+
+footer{
+    text-align: center;
+    font-family: Syne;
+    font-size: 16px;
+}
+
+header img{
+    width: 201px;
+    height: 19px;
+    margin-top: 31px;
+    margin-bottom: 30px;
+    margin-left: 37px;
+}
+header ul {
+    display: flex;
+    align-items: center;
+}
+
+header li{
+    margin-right: 60px;
+    font-family: Syne;
+    font-size: 16px;
+}
+
+header li:hover{
+    font-weight: 700;
+    line-height: normal;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+header a,
+footer a{
+    text-decoration: none;
+    color: black;
+}
+.commander{
+    color: #FFF;
+    margin-right: 0px;
+    padding-right: 61px;
+    padding-left: 61px;
+    padding-top: 30px;
+    padding-bottom: 31px;
+    background: #DC9F96;
+}

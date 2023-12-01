@@ -1,10 +1,4 @@
 <?php
-
-//Begin Really Simple SSL session cookie settings
-@ini_set('session.cookie_httponly', true);
-@ini_set('session.cookie_secure', true);
-@ini_set('session.use_only_cookies', true);
-//END Really Simple SSL cookie settings
 /**
  * The base configuration for WordPress
  *
@@ -24,26 +18,19 @@
  *
  * @package WordPress
  */
-
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'local' );
-
 /** Database username */
 define( 'DB_USER', 'root' );
-
 /** Database password */
 define( 'DB_PASSWORD', 'root' );
-
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
-
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
-
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
-
 /**#@+
  * Authentication unique keys and salts.
  *
@@ -55,10 +42,7 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-
-
 /**#@-*/
-
 /**
  * WordPress database table prefix.
  *
@@ -66,12 +50,7 @@ define( 'DB_COLLATE', '' );
  * a unique prefix. Only numbers, letters, and underscores please!
  */
 $table_prefix = 'wp_';
-
-
 /* Add any custom values between this line and the "stop editing" line. */
-
-
-
 /**
  * For developers: WordPress debugging mode.
  *
@@ -87,8 +66,6 @@ $table_prefix = 'wp_';
 if ( ! defined( 'WP_DEBUG' ) ) {
 	define( 'WP_DEBUG', false );
 }
-
-
 define('AUTH_KEY',         'V3IssDzSB0+QU8SxcbgUuwap88GSr3IeXkuMb4OgDSGkz0JOVyZjUK1YUd8aYy4b/Oq+Uert8hC/8SvPbHns2g==');
 define('SECURE_AUTH_KEY',  'W8qMICsOq4bsqZDTRRkwC7qC8L0V0W8MabNROraA/bt+wWtTHlMCLFc++UwqnQ7yFAuRCDFEQpkIAWji0LRDSQ==');
 define('LOGGED_IN_KEY',    'XzaCOx2U9TVTKssL6DSau6myoHKcdgg4+7w9dDQpDzA/PVpaUEUsuWQp2C4jVmxRG6fjV2PgrFuXP6YnLowCjw==');
@@ -99,11 +76,9 @@ define('LOGGED_IN_SALT',   'cgBGXvshz/gSbw2FEEC+A3zb4LegY2ROH8hmkiCgyhtfws7ZB5jE
 define('NONCE_SALT',       'tMDdAg0ottFm2OkM9ADmhJAF2ZvQ3FIX+ElSxL/UVmyonRnxZ0TmycEgpUPHQZpn7bks2Xq62yil4S8KeuRCKw==');
 define( 'WP_ENVIRONMENT_TYPE', 'local' );
 /* That's all, stop editing! Happy publishing. */
-
 /** Absolute path to the WordPress directory. */
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', __DIR__ . '/' );
 }
-
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';

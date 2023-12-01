@@ -339,3 +339,42 @@ Stack trace:
 [30-Nov-2023 10:51:18 UTC] PHP  15. WP_Hook->apply_filters() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\plugin.php:205
 [30-Nov-2023 10:51:18 UTC] PHP  16. blankslate_menu_class() C:\Users\Semih\Local Sites\planty\app\public\wp-includes\class-wp-hook.php:326
 [30-Nov-2023 10:51:18 UTC] PHP  17. in_array() C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\blankslate-child\functions.php:12
+[30-Nov-2023 13:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blankslate_schema_type() in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\planty\header.php:2
+Stack trace:
+#0 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php(725): load_template('C:\\Users\\Semih\\...', true, Array)
+#2 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp\page.php(12): get_header()
+#4 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Semih\\...')
+#5 C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Semih\\...')
+#6 C:\Users\Semih\Local Sites\planty\app\public\index.php(17): require('C:\\Users\\Semih\\...')
+#7 {main}
+  thrown in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\planty\header.php on line 2
+[30-Nov-2023 13:05:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blankslate_schema_type() in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\planty\header.php:2
+Stack trace:
+#0 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php(725): load_template('C:\\Users\\Semih\\...', true, Array)
+#2 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp\page.php(12): get_header()
+#4 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Semih\\...')
+#5 C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Semih\\...')
+#6 C:\Users\Semih\Local Sites\planty\app\public\index.php(17): require('C:\\Users\\Semih\\...')
+#7 {main}
+  thrown in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\planty\header.php on line 2
+[30-Nov-2023 13:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blankslate_schema_type() in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\planty\header.php:2
+Stack trace:
+#0 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template.php(725): load_template('C:\\Users\\Semih\\...', true, Array)
+#2 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp\page.php(12): get_header()
+#4 C:\Users\Semih\Local Sites\planty\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Semih\\...')
+#5 C:\Users\Semih\Local Sites\planty\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Semih\\...')
+#6 C:\Users\Semih\Local Sites\planty\app\public\index.php(17): require('C:\\Users\\Semih\\...')
+#7 {main}
+  thrown in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\planty\header.php on line 2
+[30-Nov-2023 13:23:12 UTC] Erreur d’événement de replanification de tâche pour le crochet rsssl_every_three_hours_hook. Code d’erreur : invalid_schedule. Message d’erreur : L’évènement planifié n’existe pas.. Données : {"schedule":"rsssl_every_three_hours","args":[],"interval":10800}
+[30-Nov-2023 14:24:08 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[30-Nov-2023 14:24:08 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[30-Nov-2023 14:24:08 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[30-Nov-2023 14:24:08 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[30-Nov-2023 14:24:08 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
