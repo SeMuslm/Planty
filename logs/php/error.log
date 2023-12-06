@@ -378,3 +378,8 @@ Stack trace:
 [30-Nov-2023 14:24:08 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
 [30-Nov-2023 14:24:08 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
 [30-Nov-2023 14:24:08 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[04-Dec-2023 14:33:50 UTC] PHP Warning:  Undefined array key 1 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 84
+[04-Dec-2023 14:33:50 UTC] PHP Warning:  Undefined array key 2 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 85
+[04-Dec-2023 15:04:31 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[04-Dec-2023 15:04:31 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
+[04-Dec-2023 15:04:31 UTC] PHP Warning:  Attempt to read property "label" on null in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 753
