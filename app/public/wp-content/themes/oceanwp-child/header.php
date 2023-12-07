@@ -13,7 +13,7 @@
 <div id="wrapper" class="hfeed">
 
 <header id="header" role="banner">
-    <img src="http://planty.local/wp-content/uploads/2023/11/Logo.png" alt="Logo Planty"></a>
+    <img src="http://planty.local/wp-content/uploads/2023/12/Logo-1.png" alt="Logo Planty"></a>
 
     <?php wp_nav_menu([
         'theme_location' => 'Header',

@@ -383,3 +383,13 @@ Stack trace:
 [04-Dec-2023 15:04:31 UTC] PHP Warning:  Attempt to read property "labels" on null in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
 [04-Dec-2023 15:04:31 UTC] PHP Warning:  Attempt to read property "singular_name" on null in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 752
 [04-Dec-2023 15:04:31 UTC] PHP Warning:  Attempt to read property "label" on null in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\app\modules\import-export\module.php on line 753
+[06-Dec-2023 23:30:48 UTC] PHP Warning:  Undefined array key 1 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 84
+[06-Dec-2023 23:30:48 UTC] PHP Warning:  Undefined array key 2 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 85
+[06-Dec-2023 23:30:54 UTC] PHP Warning:  Undefined array key 1 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 84
+[06-Dec-2023 23:30:54 UTC] PHP Warning:  Undefined array key 2 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 85
+[06-Dec-2023 23:31:36 UTC] PHP Warning:  Undefined array key 1 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 84
+[06-Dec-2023 23:31:36 UTC] PHP Warning:  Undefined array key 2 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 85
+[06-Dec-2023 23:33:26 UTC] PHP Warning:  Undefined array key 1 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 84
+[06-Dec-2023 23:33:26 UTC] PHP Warning:  Undefined array key 2 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 85
+[06-Dec-2023 23:33:31 UTC] PHP Warning:  Undefined array key 1 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 84
+[06-Dec-2023 23:33:31 UTC] PHP Warning:  Undefined array key 2 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 85

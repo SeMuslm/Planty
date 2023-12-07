@@ -38,3 +38,4 @@
 2023/12/01 15:42:10 [error] 11368#8012: *24248 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.0", upstream: "fastcgi://php", host: "planty.local", referrer: "http://planty.local/"
 2023/12/01 15:42:10 [error] 11368#8012: *24249 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", upstream: "fastcgi://php", host: "planty.local"
 2023/12/01 15:42:10 [error] 11368#8012: *24250 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.0", upstream: "fastcgi://php", host: "planty.local", referrer: "http://planty.local/"
+2023/12/06 22:50:01 [alert] 22204#8868: OpenEvent("ngx_master_23172") failed (2: FormatMessage() error:(15100))
