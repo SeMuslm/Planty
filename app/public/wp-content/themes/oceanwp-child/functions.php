@@ -10,8 +10,8 @@ if ( !defined( 'ABSPATH' ) ) exit;
 
 if ( !function_exists( 'chld_thm_cfg_locale_css' ) ):
     function chld_thm_cfg_locale_css( $uri ){
-        if ( empty( $uri ) && is_rtl() && file_exists( get_template_directory() . '/rtl.css' ) )
-            $uri = get_template_directory_uri() . '/rtl.css';
+        if ( empty( $uri ) && is_rtl() && file_exists( get_template_directory() . '/style.css' ) )
+            $uri = get_template_directory_uri() . '/style.css';
         return $uri;
     }
 endif;
@@ -23,5 +23,25 @@ if ( !function_exists( 'child_theme_configurator_css' ) ):
     }
 endif;
 add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 10 );
+
+add_filter('wp_nav_menu_items', 'add_admin_link', 10, 2);
+
+function add_admin_link($items, $args){
+    if ($args->theme_location == 'Header' && is_user_logged_in()) {
+        // Créer le lien "Admin"
+        $admin_link = '<li class="navigation"><a title="Admin" href="'. esc_url(admin_url()) .'">' . __('Admin') . '</a></li>';
+
+        // Séparer les éléments en un tableau
+        $menu_items = explode('</li>', $items);
+
+        // Insérer le lien "Admin" entre les deux premiers éléments
+        array_splice($menu_items, 1, 0, $admin_link);
+
+        // Réassembler les éléments en une chaîne
+        $items = implode('</li>', $menu_items);
+    }
+    return $items;
+}
+
 
 // END ENQUEUE PARENT ACTION

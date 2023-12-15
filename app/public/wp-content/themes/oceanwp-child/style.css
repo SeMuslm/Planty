@@ -49,10 +49,10 @@ header img{
 header ul {
     display: flex;
     align-items: center;
+    gap: 60px;
 }
 
 .navigation a{
-    margin-right: 60px;
     font-weight: 400;
 }
 
@@ -62,6 +62,7 @@ header ul {
     font-size: 13px;
 }
 
+
 header a,
 footer a{
     text-decoration: none;
@@ -69,20 +70,247 @@ footer a{
     font-size: 16px;
 }
 
+.commander{
+    transition: 0.2s linear;
+    display: flex;
+    background-color: #DC9F96;
+    height: 80px;
+    width: 236px;
+    flex-direction: row;
+    justify-content: center;
+}
+
 .commander a{
+    display: flex;
     color: #FFF;
-    background: #DC9F96;
-    padding: 31px 61px;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    font-family: Syne;
+    font-size: 16px;
     font-weight: 700;
+    padding: 0% 28%;
+}
+
+.commander:hover{
+    transition: 0.2s linear;
+    background: #C02E44;
 }
 
 .commander a:hover{
     color: #FFF;
-    background: #C02E44;
 }
 
+
+.bouton{
+    width: 198px !important;
+    font-family: "Syne" !important;
+    text-transform: capitalize !important;
+    font-size: 15px !important;
+    font-weight: 400 !important;
+    line-height: 37px !important;
+    color: #FFFFFF !important;
+    background-color: #E0B9B4 !important;
+    border-style: none !important;
+    margin: 0 auto !important;
+    padding: 9px 0px !important;
+    border-radius: 5px !important;
+}
+
+.bouton:hover{
+    background-color: #C02E44    !important;
+}
+
+.colonnes{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 44px;
+}
+
+.colonne-gauche {
+    display: flex;
+    flex-direction: column;
+    width: 383px;
+	  gap: 30px;
+}
+
+.colonne-droite {
+    display: flex;
+    flex-direction: column;
+    width: 383px;
+	  gap: 30px;
+}
+
+.colonnes label{
+    margin: 0 !important;
+    color: #FFFFFF !important;
+}
+
+
+.colonnes input[type="text"],
+.colonnes input[type="email"]{
+    border-radius: 7px;
+    width: 100%;
+    height: 71px;
+    font-size: 21px;
+    margin-top: 13px;
+}
+
+
+.wpcf7-form label{
+    padding: 0 !important;
+}
+
+.formcontact input[type="text"],
+.formcontact input[type="email"],
+.formcontact textarea{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 7px;
+    margin-top: 13px;
+    margin-bottom: 22px;
+    font-size: 21px;
+    width: 383px;
+}
+
+.formcontact input[type="text"],
+.formcontact input[type="email"]{
+    height: 71px;
+}
+
+.formcontact textarea{
+    height: 237px;
+}
+
+.wpcf7 input[type="submit"]{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    width: 198px;
+    font-family: "Syne", Sans-serif;
+    text-transform: capitalize;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 37px;
+    color: #FFFFFF;
+    background-color: #E0B9B4;
+    border-style: none;
+    margin: 0 auto;
+    padding: 9px 0px;
+    border-radius: 5px;
+}
+
+.wpcf7 label{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0 !important;
+}
+
+.uacf7-form-7{
+    height: 614px !important;
+}
+
+
+.quantite{
+    display: flex;
+    justify-content: center;
+    gap: 21%;
+}
+
+.quantite input[type="text"]{
+    width: 39px;
+    height: 56px;
+    padding: 0px;
+    border-radius: 0px;
+}
+
+.quantite input::placeholder {
+    padding:15px;
+    color: #000;
+    font-family: Inter;
+    font-size: 16px;
+}
+
+
 @media screen and (max-width: 1024px) {
-    header ul {
-      display: none;
-    }
+
   }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .colonnes input[type="text"],
+    .colonnes input[type="email"]{
+        width: 91%;
+    }
+    
+    .colonnes label{
+        margin-left: 10%;
+    }
+
+    .colonne-droite{
+        padding-left: 5.5%;
+    }
+
+    .colonne-droite input[type="text"]{
+        width: 100%;
+    }
+
+    .quantite{
+        gap: 20%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+
+    .quantite{
+        gap: 18%;
+    }
+
+    .colonnes{
+        display: flex;
+        flex-direction: column;
+        gap: 100px;
+    }
+
+    .colonne-gauche{
+        width: 100%;
+    }
+    .colonne-droite{
+        width: 100%;
+    }
+
+
+    header{
+        display: flex;
+        flex-direction: column;
+    }
+    header ul{
+        display: flex;
+        flex-direction: column;
+        gap:25px;
+    }
+
+    .commander{
+    height: 100%;
+    width: 100%;
+    }
+
+    header img{
+        margin-top: 25px;
+        margin-left: 0;
+        margin-bottom: 25px;
+    }
+
+    header a{
+        display: flex;
+        justify-content: center;
+    }
+
+    .commander a{
+        display: flex;
+        padding: 30px 0;
+        justify-content: center;
+    }
+    }

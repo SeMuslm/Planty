@@ -393,3 +393,16 @@ Stack trace:
 [06-Dec-2023 23:33:26 UTC] PHP Warning:  Undefined array key 2 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 85
 [06-Dec-2023 23:33:31 UTC] PHP Warning:  Undefined array key 1 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 84
 [06-Dec-2023 23:33:31 UTC] PHP Warning:  Undefined array key 2 in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 85
+[09-Dec-2023 21:21:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\ultimate-addons-for-contact-form-7\inc\class-promo-notice.php on line 76
+[09-Dec-2023 21:21:40 UTC] PHP Warning:  Undefined array key "options" in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\pro-elements\modules\theme-builder\widgets\site-logo.php on line 192
+[09-Dec-2023 21:40:17 UTC] PHP Warning:  Undefined array key "options" in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\pro-elements\modules\theme-builder\widgets\site-logo.php on line 192
+[14-Dec-2023 11:50:45 UTC] PHP Warning:  Undefined variable $menu_location in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 29
+[14-Dec-2023 11:50:45 UTC] PHP Warning:  Undefined variable $menu_location in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 29
+[14-Dec-2023 11:55:46 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 33
+[14-Dec-2023 11:55:46 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 33
+[14-Dec-2023 11:57:10 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 35
+[14-Dec-2023 11:57:10 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 35
+[14-Dec-2023 11:57:11 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 35
+[14-Dec-2023 11:57:11 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 35
+[14-Dec-2023 11:57:42 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 37
+[14-Dec-2023 11:57:42 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 37
