@@ -406,3 +406,6 @@ Stack trace:
 [14-Dec-2023 11:57:11 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 35
 [14-Dec-2023 11:57:42 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 37
 [14-Dec-2023 11:57:42 UTC] PHP Warning:  Undefined variable $admin_link in C:\Users\Semih\Local Sites\planty\app\public\wp-content\themes\oceanwp-child\functions.php on line 37
+[21-Dec-2023 11:59:34 UTC] Erreur d’événement de replanification de tâche pour le crochet wp_privacy_delete_old_export_files. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"hourly","args":[],"interval":3600}
+[28-Dec-2023 12:46:59 UTC] PHP Warning:  Undefined array key "options" in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\pro-elements\modules\theme-builder\widgets\site-logo.php on line 192
+[28-Dec-2023 12:47:48 UTC] PHP Warning:  Undefined array key "options" in C:\Users\Semih\Local Sites\planty\app\public\wp-content\plugins\pro-elements\modules\theme-builder\widgets\site-logo.php on line 192

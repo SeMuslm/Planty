@@ -29,7 +29,7 @@ add_filter('wp_nav_menu_items', 'add_admin_link', 10, 2);
 function add_admin_link($items, $args){
     if ($args->theme_location == 'Header' && is_user_logged_in()) {
         // Créer le lien "Admin"
-        $admin_link = '<li class="navigation"><a title="Admin" href="'. esc_url(admin_url()) .'">' . __('Admin') . '</a></li>';
+        $admin_link = '<li class="navigation"><a title="Admin" href="'. esc_url(admin_url()) .'">' . __('Admin') . '</a>';
 
         // Séparer les éléments en un tableau
         $menu_items = explode('</li>', $items);
